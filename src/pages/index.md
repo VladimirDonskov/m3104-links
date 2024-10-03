@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## Актуальное
 
-Во вторник матан начинается в 10:00 (вместе с M3103)!
+Во вторник матан начинается в 10:00 вместе с M3103 ( Однако Сарычев П.А может провести пару по расписанию, обо всем староста пишет за день до пары )!
 
 
 ## МатАн и ЛинАл
@@ -96,6 +96,7 @@ sidebar_position: 1
 
 #### Полезное
 - [Git на русском](https://git-scm.com/book/ru/v2)
+- [Список группы](https://docs.google.com/spreadsheets/d/1qgzLDFRAlsFhHSkQEIVNwaQkZ-5t6V9yDrRmpBFVx6k/edit?usp=sharing)
 
 ---
 
